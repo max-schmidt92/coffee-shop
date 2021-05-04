@@ -1,5 +1,5 @@
 Feature:
-  Create story points feature
+  Create story points feature for story plan
 
   Scenario:
     Given I visit the story board
