@@ -1,5 +1,5 @@
 Feature:
-  Create issue based on project and issue type
+  Create issue based on project and issue types
 
   Scenario:
     Given I visit the dashboard
